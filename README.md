@@ -27,4 +27,6 @@ If you'd like to see another account added to the watchlist please open an [issu
 - [rstudio](https://github.com/rstudio)
 - [ryanlayer](https://github.com/ryanlayer)
 - [samtools](https://github.com/samtools)
+- [sjackman](https://github.com/sjackman)
 - [tseemann](https://github.com/tseemann)
+- [vsbuffalo](https://github.com/vsbuffalo)
