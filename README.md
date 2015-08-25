@@ -13,6 +13,7 @@ If you'd like to see another account added to the watchlist please open an [issu
 ## Watchlist
 
 - [arq5x](https://github.com/arq5x)
+- [brentp](https://github.com/brentp)
 - [broadinstitute](https://github.com/broadinstitute)
 - [hadley](https://github.com/hadley)
 - [jtleek](https://github.com/jtleek)
@@ -24,4 +25,6 @@ If you'd like to see another account added to the watchlist please open an [issu
 - [pachterlab](https://github.com/pachterlab)
 - [rob-p](https://github.com/rob-p)
 - [rstudio](https://github.com/rstudio)
+- [ryanlayer](https://github.com/ryanlayer)
+- [samtools](https://github.com/samtools)
 - [tseemann](https://github.com/tseemann)
