@@ -8,7 +8,7 @@ The [@BioinfoRepos Twitter feed](https://twitter.com/BioinfoRepos) is powered by
 
 ## Adding more accounts
 
-If you'd like to see another account added to the watchlist please open an [issue](https://github.com/bioinforepos/bioinforepos/issues).
+If you'd like to see another account added to the watchlist please open an [issue](https://github.com/bioinforepos/bioinforepos/issues) or send a Tweet to [@BioinfoRepos](https://twitter.com/BioinfoRepos). Currently the process isn't very automated, so I can't handle long lists of usernames, only individual accounts.
 
 ## Watchlist
 
