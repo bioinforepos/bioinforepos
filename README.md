@@ -1,8 +1,10 @@
 # bioinforepos
 
+[twitter.com/BioinfoRepos](https://twitter.com/BioinfoRepos)
+
 ## About
 
-The [@BioinfoRepos Twitter feed](https://twitter.com/BioinfoRepos) is powered by [IFTTT](https://ifttt.com). Any time one of the users/organizations in the [watchlist](#watchlist) below creates a new repository, a new Tweet will be posted to [@BioinfoRepos](https://twitter.com/BioinfoRepos) with the following fields:
+Any time one of the users/organizations in the watchlist below creates a new GitHub repository [@BioinfoRepos](https://twitter.com/BioinfoRepos) will Tweet about it:
 
 `{{RepositoryName}} from {{OwnerUsername}}: {{RepositoryURL}} {{RepositoryDescription}}`
 
