@@ -4,7 +4,7 @@
 
 ## About
 
-Any time one of the users/organizations in the watchlist below creates a new GitHub repository [@BioinfoRepos](https://twitter.com/BioinfoRepos) will Tweet about it:
+Any time one of the users/organizations in the watchlist below creates a new GitHub repository, [@BioinfoRepos](https://twitter.com/BioinfoRepos) will Tweet about it:
 
 `{{RepositoryName}} from {{OwnerUsername}}: {{RepositoryURL}} {{RepositoryDescription}}`
 
