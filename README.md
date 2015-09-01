@@ -20,6 +20,7 @@ If you'd like to see another account added to the watchlist please open an [issu
 - [broadinstitute](https://github.com/broadinstitute)
 - [ctb](https://github.com/ctb)
 - [hadley](https://github.com/hadley)
+- [hammerlab](https://github.com/hammerlab)
 - [jtleek](https://github.com/jtleek)
 - [kbroman](https://github.com/kbroman)
 - [kingsfordgroup](https://github.com/kingsfordgroup)
